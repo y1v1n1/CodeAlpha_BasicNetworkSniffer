@@ -37,3 +37,19 @@ This tool allows you to monitor live **IPv4 traffic**, view **source/destination
 git clone https://github.com/yourusername/packet-sniffer-tk.git
 cd packet-sniffer-tk
 pip install scapy
+
+---
+
+________________________________________
+##▶️ Usage
+```bash
+python packet_sniffer_gui.py
+
+•	Click “Start Sniffing” to begin monitoring.
+•	Click “Stop Sniffing” to halt the capture and view the summary.
+🔐 Note: Administrator/root access may be required:
+
+```bash
+sudo python packet_sniffer_gui.py
+________________________________________
+
