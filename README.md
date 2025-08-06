@@ -41,16 +41,32 @@ pip install scapy
 ---
 
 
-##▶️ Usage
+▶️ Usage
 ```bash
 python packet_sniffer_gui.py
 ```
-•	Click “Start Sniffing” to begin monitoring.
-•	Click “Stop Sniffing” to halt the capture and view the summary.
-🔐 Note: Administrator/root access may be required:
+-	Click “Start Sniffing” to begin monitoring.
+-	Click “Stop Sniffing” to halt the capture and view the summary.
+
+
+   🔐 Note: Administrator/root access may be required:
 
 ```bash
 sudo python packet_sniffer_gui.py
 ```
+---
 
+📌 Notes
+- Only IPv4 traffic is captured and displayed.
+- Designed for educational and network diagnostic use.
+
+ 
+  ⚠️ Do not use on unauthorized networks.
+
+  
+
+📄 License
+
+
+***This project is licensed under the MIT License.***
 
