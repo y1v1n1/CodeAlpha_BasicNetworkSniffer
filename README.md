@@ -18,7 +18,6 @@ This tool allows you to monitor live **IPv4 traffic**, view **source/destination
 
 ## 🖼️ Screenshot
 
-*(Add your screenshot below - e.g., rename it to `screenshot.png` and place it in your repo)*
 
 ![image alt](https://github.com/y1v1n1/CodeAlpha_BasicNetworkSniffer/blob/a026e1c69b80261235d7b89ba8bfa42d48cd3653/Screenshot%202025-08-06%20191113.png)
 
