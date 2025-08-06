@@ -1,4 +1,4 @@
-# 🐍 Basic Network Sniffer (Tkinter GUI)
+# 🐍 Basic Network Sniffer 
 
 A simple yet powerful packet sniffer with a friendly graphical interface built using **Tkinter** and **Scapy**.  
 This tool allows you to monitor live **IPv4 traffic**, view **source/destination IP addresses**, and see **real-time protocol statistics** — all within a streamlined GUI.
